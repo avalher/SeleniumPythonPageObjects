@@ -1,0 +1,63 @@
+2023-09-13 21:55:30,316 - BasePage.py:[31] - [INFO] - Typing on a element: name_xpathvalue entered as: Aldo
+2023-09-13 21:55:30,496 - BasePage.py:[31] - [INFO] - Typing on a element: phone_xpathvalue entered as: 5526524152
+2023-09-13 21:55:30,730 - BasePage.py:[31] - [INFO] - Typing on a element: email_xpathvalue entered as: aldo@gmail.com
+2023-09-13 21:55:31,113 - BasePage.py:[45] - [INFO] - Selecting on a element: country_xpathvalue selected as: Mexico
+2023-09-13 21:55:31,239 - BasePage.py:[31] - [INFO] - Typing on a element: city_xpathvalue entered as: cdmx
+2023-09-13 21:55:31,389 - BasePage.py:[31] - [INFO] - Typing on a element: username_xpathvalue entered as: aldo1
+2023-09-13 21:55:31,532 - BasePage.py:[31] - [INFO] - Typing on a element: password_xpathvalue entered as: 123456
+2023-09-13 21:55:31,743 - BasePage.py:[23] - [INFO] - Clicking on a element: submit_XPATH
+2023-09-13 21:55:31,744 - test_signup.py:[16] - [INFO] - Test Do Signup successfully 
+2023-09-13 21:56:26,547 - BasePage.py:[31] - [INFO] - Typing on a element: name_xpathvalue entered as: Aldo
+2023-09-13 21:56:26,754 - BasePage.py:[31] - [INFO] - Typing on a element: phone_xpathvalue entered as: 5526524152
+2023-09-13 21:56:26,937 - BasePage.py:[31] - [INFO] - Typing on a element: email_xpathvalue entered as: aldo@gmail.com
+2023-09-13 21:56:27,361 - BasePage.py:[45] - [INFO] - Selecting on a element: country_xpathvalue selected as: Mexico
+2023-09-13 21:56:27,484 - BasePage.py:[31] - [INFO] - Typing on a element: city_xpathvalue entered as: cdmx
+2023-09-13 21:56:27,622 - BasePage.py:[31] - [INFO] - Typing on a element: username_xpathvalue entered as: aldo1
+2023-09-13 21:56:27,763 - BasePage.py:[31] - [INFO] - Typing on a element: password_xpathvalue entered as: 123456
+2023-09-13 21:56:27,977 - BasePage.py:[23] - [INFO] - Clicking on a element: submit_XPATH
+2023-09-13 21:56:27,978 - test_signup.py:[16] - [INFO] - Test Do Signup successfully 
+2023-09-13 21:56:50,451 - BasePage.py:[31] - [INFO] - Typing on a element: name_xpathvalue entered as: Aldo
+2023-09-13 21:56:50,492 - BasePage.py:[31] - [INFO] - Typing on a element: phone_xpathvalue entered as: 5526524152
+2023-09-13 21:56:50,565 - BasePage.py:[31] - [INFO] - Typing on a element: email_xpathvalue entered as: aldo@gmail.com
+2023-09-13 21:56:55,193 - BasePage.py:[45] - [INFO] - Selecting on a element: country_xpathvalue selected as: Mexico
+2023-09-13 21:56:55,277 - BasePage.py:[31] - [INFO] - Typing on a element: city_xpathvalue entered as: cdmx
+2023-09-13 21:56:55,322 - BasePage.py:[31] - [INFO] - Typing on a element: username_xpathvalue entered as: aldo1
+2023-09-13 21:56:55,376 - BasePage.py:[31] - [INFO] - Typing on a element: password_xpathvalue entered as: 123456
+2023-09-13 21:56:55,656 - BasePage.py:[23] - [INFO] - Clicking on a element: submit_XPATH
+2023-09-13 21:56:55,659 - test_signup.py:[16] - [INFO] - Test Do Signup successfully 
+2023-09-13 21:59:26,736 - BasePage.py:[31] - [INFO] - Typing on a element: name_xpathvalue entered as: Aldo
+2023-09-13 21:59:26,838 - BasePage.py:[31] - [INFO] - Typing on a element: phone_xpathvalue entered as: 5526524152
+2023-09-13 21:59:26,929 - BasePage.py:[31] - [INFO] - Typing on a element: email_xpathvalue entered as: aldo@gmail.com
+2023-09-13 21:59:27,059 - BasePage.py:[45] - [INFO] - Selecting on a element: country_xpathvalue selected as: Mexico
+2023-09-13 21:59:27,180 - BasePage.py:[31] - [INFO] - Typing on a element: city_xpathvalue entered as: cdmx
+2023-09-13 21:59:27,328 - BasePage.py:[31] - [INFO] - Typing on a element: username_xpathvalue entered as: aldo1
+2023-09-13 21:59:27,512 - BasePage.py:[31] - [INFO] - Typing on a element: password_xpathvalue entered as: 123456
+2023-09-13 21:59:28,027 - BasePage.py:[23] - [INFO] - Clicking on a element: submit_XPATH
+2023-09-13 21:59:28,027 - test_signup.py:[16] - [INFO] - Test Do Signup successfully 
+2023-09-13 21:59:48,411 - BasePage.py:[31] - [INFO] - Typing on a element: name_xpathvalue entered as: Aldo
+2023-09-13 21:59:48,452 - BasePage.py:[31] - [INFO] - Typing on a element: phone_xpathvalue entered as: 5526524152
+2023-09-13 21:59:48,499 - BasePage.py:[31] - [INFO] - Typing on a element: email_xpathvalue entered as: aldo@gmail.com
+2023-09-13 21:59:54,151 - BasePage.py:[45] - [INFO] - Selecting on a element: country_xpathvalue selected as: Mexico
+2023-09-13 21:59:54,207 - BasePage.py:[31] - [INFO] - Typing on a element: city_xpathvalue entered as: cdmx
+2023-09-13 21:59:54,262 - BasePage.py:[31] - [INFO] - Typing on a element: username_xpathvalue entered as: aldo1
+2023-09-13 21:59:54,330 - BasePage.py:[31] - [INFO] - Typing on a element: password_xpathvalue entered as: 123456
+2023-09-13 21:59:54,644 - BasePage.py:[23] - [INFO] - Clicking on a element: submit_XPATH
+2023-09-13 21:59:54,645 - test_signup.py:[16] - [INFO] - Test Do Signup successfully 
+2023-09-13 23:43:19,625 - test_carwale.py:[17] - [INFO] - ****Inside new car test******
+2023-09-13 23:43:20,030 - BasePage.py:[60] - [INFO] - Moving to an element: newcar_xpath
+2023-09-13 23:43:20,030 - BasePage.py:[24] - [INFO] - Clicking on a element: findNewCars_xpath
+2023-09-13 23:43:45,488 - test_carwale.py:[17] - [INFO] - ****Inside new car test******
+2023-09-13 23:43:46,088 - BasePage.py:[60] - [INFO] - Moving to an element: newcar_xpath
+2023-09-13 23:43:46,088 - BasePage.py:[24] - [INFO] - Clicking on a element: findNewCars_xpath
+2023-09-13 23:44:29,962 - test_carwale.py:[17] - [INFO] - ****Inside new car test******
+2023-09-13 23:44:30,395 - BasePage.py:[60] - [INFO] - Moving to an element: newcar_xpath
+2023-09-13 23:44:30,396 - BasePage.py:[24] - [INFO] - Clicking on a element: findNewCars_xpath
+2023-09-13 23:44:51,864 - test_carwale.py:[17] - [INFO] - ****Inside new car test******
+2023-09-13 23:44:52,363 - BasePage.py:[60] - [INFO] - Moving to an element: newcar_xpath
+2023-09-13 23:44:52,363 - BasePage.py:[24] - [INFO] - Clicking on a element: findNewCars_xpath
+2023-09-13 23:51:10,070 - test_carwale.py:[17] - [INFO] - ****Inside new car test******
+2023-09-13 23:51:11,731 - BasePage.py:[60] - [INFO] - Moving to an element: newcar_xpath
+2023-09-13 23:51:11,731 - BasePage.py:[24] - [INFO] - Clicking on a element: findNewCars_xpath
+2023-09-13 23:51:35,705 - test_carwale.py:[17] - [INFO] - ****Inside new car test******
+2023-09-13 23:51:36,853 - BasePage.py:[60] - [INFO] - Moving to an element: newcar_xpath
+2023-09-13 23:51:36,853 - BasePage.py:[24] - [INFO] - Clicking on a element: findNewCars_xpath
