@@ -15,7 +15,7 @@ class CarBase:
     def getCarNameAndPrices(self):
         carNames = self.driver.find_elements(By.XPATH, configReader.readConfig("locators", "carName_xpath"))
         carPrices = self.driver.find_elements(By.XPATH, configReader.readConfig("locators", "carPrice_xpath"))
-
+        #addinig comments
         for i in range(1, len(carPrices)):
             print(carNames[i].text+"----Prices are----"+carPrices[i].text)
 
